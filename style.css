@@ -3,3 +3,8 @@
   border: none;
   box-shadow: none;
 }
+
+.footer {
+  background-color: lightgray;
+  height: 200px;
+}
