@@ -10,5 +10,5 @@ attempts 1
 
 # footer
 
-attempts 1
-DNF, 
+attempts 2
+DNF, 7:30
